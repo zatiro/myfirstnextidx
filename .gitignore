@@ -17,6 +17,11 @@
 /.next/
 /out/
 
+# firebase
+/.firebase/**/node_modules
+/.firebase/**/.next
+/.firebase/**/hosting
+
 # production
 /build
 
